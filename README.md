@@ -34,7 +34,7 @@ Explore the amazing features of this repository:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Prathmesh311/Microservices-With-Spring-Cloud.git
+git clone https://github.com/manigkrish/Foreign-Exchange-Plaza.git
 ```
 
 2. Navigate to the specific microservice directory:
